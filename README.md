@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am currently employed as a Junior Researcher/Expert Associate at Department of Automation and Electronics, Faculty of Engineering - University of Rijeka. I am also a doctoral student of Electrical Engineering - Eelctronic and Information Systems at the same institution.
+
+## Contact me via my profiles on my personal web: ssegota.github.io
+
 <!--
 **ssegota/ssegota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
